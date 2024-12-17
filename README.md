@@ -9,8 +9,17 @@
 <img src="https://github.com/GsLibrary/CommunityReady/blob/main/GHRes/BigLogo.png?raw=true">
 
 ## Table of Contents
-1. [Instructions](#Instructions)
+- ### [Instructions](#Instructions)
+- ### [Copy N' Pastes](#CnP)
 
 ### Instructions
+> Getting the template
 1. Goto the template link by clicking underlined text | [Template Link](#)
 2. 
+
+### Copy N' Pastes
+> Below are characters usable in the channel names
+
+````
+x
+````
