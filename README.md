@@ -13,12 +13,12 @@
 - ### [Copy N' Pastes](#Copy-N-Pastes)
 
 ### Instructions
-> Getting the template
+> Getting the Template
 1. Goto the template link by clicking underlined text | [Template Link](#)
-> Bots and setups
+> Bots and Setups
 
 ### Copy N' Pastes
-> Below are characters usable in the channel names
+> Below Are Characters Usable in the Channel Names
 
 ````
 x
