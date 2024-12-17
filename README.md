@@ -10,12 +10,12 @@
 
 ## Table of Contents
 - ### [Instructions](#Instructions)
-- ### [Copy N' Pastes](#CnP)
+- ### [Copy N' Pastes](#Copy-N-Pastes)
 
 ### Instructions
 > Getting the template
 1. Goto the template link by clicking underlined text | [Template Link](#)
-2. 
+> Bots and setups
 
 ### Copy N' Pastes
 > Below are characters usable in the channel names
