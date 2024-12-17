@@ -6,6 +6,11 @@
 
 <hr>
 
-![](m.png)
+<img src="https://github.com/GsLibrary/CommunityReady/blob/main/GHRes/BigLogo.png?raw=true">
+
+## Table of Contents
+1. [Instructions](#Instructions)
 
 ### Instructions
+1. Goto the template link by clicking underlined text | [Template Link](#)
+2. 
